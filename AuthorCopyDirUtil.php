@@ -1,6 +1,6 @@
 <?php
 
-namespace Xman\CopyDir;
+namespace CopyDir;
 
 /*
  * LingTalfi 2015-10-19

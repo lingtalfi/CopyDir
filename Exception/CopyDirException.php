@@ -1,6 +1,6 @@
 <?php
 
-namespace Xman\CopyDir\Exception;
+namespace CopyDir\Exception;
 
 /*
  * LingTalfi 2015-10-19

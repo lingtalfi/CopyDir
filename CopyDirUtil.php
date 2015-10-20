@@ -1,11 +1,11 @@
 <?php
 
-namespace Xman\CopyDir;
+namespace CopyDir;
 
 /*
  * LingTalfi 2015-10-19
  */
-use Xman\CopyDir\Exception\CopyDirException;
+use CopyDir\Exception\CopyDirException;
 
 class CopyDirUtil
 {
