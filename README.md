@@ -187,6 +187,10 @@ Eventually, I changed my mind because of the following reasons:
 History Log
 ------------------
 
+- 1.3.0 -- 2017-04-18
+
+    WithFilterCopyDirUtil now extends SimpleCopyDirUtil 
+    
 - 1.2.0 -- 2017-04-18
 
     add WithFilterCopyDirUtil

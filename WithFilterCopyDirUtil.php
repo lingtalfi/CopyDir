@@ -8,7 +8,7 @@ namespace CopyDir;
  * - can filter directories
  * 
  */
-class WithFilterCopyDirUtil extends CopyDirUtil
+class WithFilterCopyDirUtil extends SimpleCopyDirUtil
 {
 
     /**
