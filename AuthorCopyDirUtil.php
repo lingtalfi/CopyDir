@@ -1,6 +1,6 @@
 <?php
 
-namespace CopyDir;
+namespace Ling\CopyDir;
 
 /*
  * LingTalfi 2015-10-19

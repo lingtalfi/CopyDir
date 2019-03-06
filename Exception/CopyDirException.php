@@ -1,6 +1,6 @@
 <?php
 
-namespace CopyDir\Exception;
+namespace Ling\CopyDir\Exception;
 
 /*
  * LingTalfi 2015-10-19

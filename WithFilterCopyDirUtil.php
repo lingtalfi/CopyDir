@@ -1,6 +1,6 @@
 <?php
 
-namespace CopyDir;
+namespace Ling\CopyDir;
 
 /*
  * Features:
