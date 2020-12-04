@@ -199,6 +199,10 @@ Eventually, I changed my mind because of the following reasons:
 History Log
 ------------------
 
+- 1.3.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.3.0 -- 2017-04-18
 
     - WithFilterCopyDirUtil now extends SimpleCopyDirUtil 
